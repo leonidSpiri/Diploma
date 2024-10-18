@@ -4,8 +4,12 @@
 
 <instance-profile id="d"
                  name="Diploma"
-                 start-page="Оглавление.md">
+                 start-page="Структура.md">
 
+    <toc-element topic="Структура.md"/>
+    <toc-element topic="Реферат.md"/>
     <toc-element topic="Оглавление.md"/>
     <toc-element topic="Введение.md"/>
+    <toc-element topic="Заключения.md"/>
+    <toc-element topic="Список-использованных-источников.md"/>
 </instance-profile>

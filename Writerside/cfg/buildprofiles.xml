@@ -6,6 +6,10 @@
     <variables></variables>
     <build-profile instance="d">
         <variables>
+            <download-title>My Tg.</download-title>
+            <download-page>https://t.me/leonidSpiri</download-page>
+            <showDownloadButton>true</showDownloadButton>
+            <primary-color>aqua</primary-color>
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
